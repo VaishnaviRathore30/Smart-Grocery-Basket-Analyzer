@@ -1,0 +1,723 @@
+Transaction_ID,Item
+1,Butter
+1,Cold Drink
+1,Milk
+1,Maggi
+1,Biscuits
+2,Chips
+2,Cheese
+2,Milk
+3,Maggi
+3,Eggs
+3,Cheese
+3,Biscuits
+3,Milk
+4,Chips
+4,Bread
+4,Juice
+4,Cold Drink
+4,Maggi
+5,Cheese
+5,Milk
+6,Butter
+6,Maggi
+6,Cheese
+6,Eggs
+7,Cheese
+7,Biscuits
+7,Milk
+7,Eggs
+8,Biscuits
+8,Bread
+8,Maggi
+8,Milk
+8,Eggs
+9,Biscuits
+9,Milk
+10,Butter
+10,Cold Drink
+11,Juice
+11,Cheese
+11,Biscuits
+11,Milk
+11,Maggi
+12,Butter
+12,Bread
+12,Cold Drink
+13,Butter
+13,Juice
+13,Cold Drink
+13,Chips
+14,Biscuits
+14,Butter
+15,Biscuits
+15,Chips
+15,Juice
+15,Bread
+15,Butter
+16,Biscuits
+16,Maggi
+16,Eggs
+16,Milk
+17,Juice
+17,Milk
+17,Cheese
+17,Biscuits
+17,Eggs
+18,Bread
+18,Maggi
+18,Biscuits
+18,Butter
+18,Eggs
+19,Eggs
+19,Chips
+19,Maggi
+19,Cold Drink
+20,Chips
+20,Eggs
+20,Milk
+20,Juice
+20,Bread
+21,Cold Drink
+21,Maggi
+21,Juice
+22,Maggi
+22,Cheese
+23,Eggs
+23,Cold Drink
+23,Butter
+23,Maggi
+23,Cheese
+24,Maggi
+24,Biscuits
+25,Cheese
+25,Bread
+25,Biscuits
+26,Eggs
+26,Biscuits
+26,Bread
+26,Butter
+27,Cold Drink
+27,Milk
+27,Eggs
+27,Butter
+28,Eggs
+28,Biscuits
+28,Maggi
+28,Bread
+29,Cheese
+29,Milk
+29,Cold Drink
+29,Bread
+30,Bread
+30,Eggs
+31,Cheese
+31,Maggi
+31,Cold Drink
+32,Butter
+32,Chips
+32,Juice
+32,Bread
+33,Bread
+33,Maggi
+33,Eggs
+34,Eggs
+34,Milk
+34,Bread
+34,Maggi
+34,Juice
+35,Cheese
+35,Juice
+36,Bread
+36,Eggs
+37,Chips
+37,Biscuits
+37,Maggi
+37,Milk
+37,Juice
+38,Eggs
+38,Juice
+38,Maggi
+39,Bread
+39,Chips
+39,Juice
+39,Eggs
+39,Cheese
+40,Bread
+40,Biscuits
+40,Cold Drink
+40,Juice
+41,Biscuits
+41,Cheese
+41,Milk
+41,Butter
+42,Cheese
+42,Milk
+42,Chips
+42,Cold Drink
+43,Butter
+43,Juice
+43,Biscuits
+43,Cold Drink
+44,Butter
+44,Cheese
+45,Cheese
+45,Maggi
+45,Chips
+45,Bread
+45,Juice
+46,Milk
+46,Cold Drink
+46,Bread
+46,Biscuits
+46,Maggi
+47,Eggs
+47,Milk
+47,Juice
+47,Biscuits
+47,Bread
+48,Eggs
+48,Juice
+49,Juice
+49,Cheese
+49,Bread
+49,Eggs
+49,Butter
+50,Eggs
+50,Chips
+50,Bread
+51,Juice
+51,Bread
+51,Cold Drink
+51,Cheese
+51,Eggs
+52,Bread
+52,Chips
+52,Cold Drink
+52,Eggs
+52,Juice
+53,Maggi
+53,Butter
+54,Bread
+54,Maggi
+54,Juice
+54,Milk
+55,Cold Drink
+55,Chips
+55,Cheese
+55,Juice
+55,Maggi
+56,Maggi
+56,Juice
+57,Biscuits
+57,Bread
+58,Cheese
+58,Biscuits
+58,Chips
+59,Butter
+59,Juice
+59,Milk
+59,Bread
+59,Cold Drink
+60,Maggi
+60,Bread
+60,Cold Drink
+60,Biscuits
+60,Chips
+61,Biscuits
+61,Cold Drink
+61,Maggi
+61,Chips
+61,Cheese
+62,Chips
+62,Bread
+62,Butter
+63,Milk
+63,Cheese
+64,Eggs
+64,Biscuits
+64,Bread
+64,Chips
+64,Cold Drink
+65,Bread
+65,Eggs
+65,Chips
+65,Milk
+66,Cheese
+66,Chips
+66,Cold Drink
+66,Butter
+67,Biscuits
+67,Juice
+67,Butter
+67,Cold Drink
+68,Cheese
+68,Maggi
+68,Eggs
+68,Biscuits
+68,Cold Drink
+69,Biscuits
+69,Juice
+69,Eggs
+69,Bread
+70,Eggs
+70,Maggi
+71,Butter
+71,Bread
+72,Eggs
+72,Maggi
+72,Chips
+72,Milk
+73,Cold Drink
+73,Maggi
+73,Juice
+74,Cold Drink
+74,Maggi
+74,Eggs
+75,Juice
+75,Biscuits
+75,Cold Drink
+76,Eggs
+76,Maggi
+76,Milk
+76,Cheese
+76,Biscuits
+77,Chips
+77,Bread
+77,Butter
+77,Cold Drink
+77,Eggs
+78,Maggi
+78,Milk
+79,Butter
+79,Juice
+79,Eggs
+80,Milk
+80,Juice
+80,Cold Drink
+80,Bread
+81,Maggi
+81,Milk
+81,Juice
+81,Bread
+81,Cold Drink
+82,Eggs
+82,Milk
+82,Maggi
+83,Butter
+83,Cheese
+83,Maggi
+83,Milk
+84,Cheese
+84,Maggi
+84,Juice
+84,Biscuits
+85,Chips
+85,Butter
+85,Milk
+85,Juice
+86,Milk
+86,Biscuits
+86,Cold Drink
+86,Maggi
+87,Milk
+87,Butter
+87,Maggi
+87,Eggs
+88,Chips
+88,Eggs
+88,Cold Drink
+88,Milk
+88,Biscuits
+89,Eggs
+89,Maggi
+89,Chips
+89,Biscuits
+90,Milk
+90,Chips
+90,Butter
+90,Biscuits
+91,Cheese
+91,Biscuits
+91,Butter
+91,Bread
+92,Cold Drink
+92,Butter
+93,Butter
+93,Cold Drink
+93,Biscuits
+94,Maggi
+94,Biscuits
+95,Eggs
+95,Chips
+95,Biscuits
+95,Maggi
+96,Maggi
+96,Chips
+96,Juice
+96,Biscuits
+97,Maggi
+97,Butter
+97,Cheese
+98,Maggi
+98,Cold Drink
+98,Bread
+99,Eggs
+99,Cheese
+100,Cheese
+100,Bread
+100,Milk
+100,Cold Drink
+101,Cold Drink
+101,Milk
+102,Milk
+102,Chips
+102,Butter
+103,Butter
+103,Biscuits
+103,Cheese
+103,Eggs
+103,Milk
+104,Bread
+104,Cold Drink
+104,Juice
+104,Butter
+104,Maggi
+105,Eggs
+105,Bread
+105,Maggi
+106,Eggs
+106,Maggi
+107,Juice
+107,Maggi
+107,Milk
+107,Eggs
+108,Bread
+108,Juice
+108,Cheese
+108,Biscuits
+108,Eggs
+109,Bread
+109,Cheese
+109,Maggi
+109,Eggs
+110,Cold Drink
+110,Butter
+110,Eggs
+111,Maggi
+111,Juice
+112,Cold Drink
+112,Eggs
+113,Cheese
+113,Butter
+114,Bread
+114,Cold Drink
+114,Biscuits
+114,Butter
+115,Milk
+115,Juice
+116,Cold Drink
+116,Milk
+116,Butter
+116,Juice
+117,Milk
+117,Bread
+117,Butter
+118,Milk
+118,Cold Drink
+118,Biscuits
+118,Maggi
+119,Milk
+119,Cold Drink
+119,Bread
+119,Cheese
+119,Butter
+120,Juice
+120,Biscuits
+120,Eggs
+120,Cheese
+121,Cheese
+121,Milk
+121,Chips
+121,Juice
+122,Biscuits
+122,Maggi
+123,Milk
+123,Chips
+123,Cheese
+123,Bread
+123,Cold Drink
+124,Milk
+124,Maggi
+124,Cheese
+124,Juice
+125,Milk
+125,Eggs
+125,Chips
+125,Butter
+126,Biscuits
+126,Milk
+126,Cheese
+126,Butter
+126,Juice
+127,Butter
+127,Juice
+127,Milk
+128,Butter
+128,Chips
+128,Eggs
+128,Bread
+128,Juice
+129,Cold Drink
+129,Juice
+130,Chips
+130,Cheese
+130,Eggs
+131,Maggi
+131,Bread
+132,Chips
+132,Butter
+133,Chips
+133,Cold Drink
+133,Juice
+133,Biscuits
+134,Cheese
+134,Butter
+134,Biscuits
+134,Chips
+134,Maggi
+135,Juice
+135,Milk
+136,Chips
+136,Bread
+136,Juice
+136,Cheese
+136,Maggi
+137,Eggs
+137,Butter
+138,Juice
+138,Biscuits
+138,Butter
+138,Chips
+139,Juice
+139,Bread
+139,Maggi
+140,Biscuits
+140,Eggs
+141,Biscuits
+141,Butter
+141,Cold Drink
+141,Eggs
+141,Cheese
+142,Cheese
+142,Butter
+143,Cold Drink
+143,Eggs
+143,Maggi
+143,Cheese
+144,Maggi
+144,Eggs
+144,Milk
+145,Eggs
+145,Cold Drink
+145,Chips
+145,Maggi
+145,Bread
+146,Eggs
+146,Chips
+147,Cheese
+147,Chips
+147,Eggs
+147,Cold Drink
+148,Cold Drink
+148,Milk
+148,Juice
+148,Eggs
+148,Butter
+149,Juice
+149,Eggs
+149,Bread
+149,Butter
+150,Maggi
+150,Juice
+151,Cheese
+151,Chips
+151,Eggs
+151,Maggi
+151,Juice
+152,Chips
+152,Butter
+152,Juice
+152,Bread
+152,Cold Drink
+153,Maggi
+153,Butter
+154,Chips
+154,Biscuits
+154,Cold Drink
+154,Eggs
+155,Juice
+155,Chips
+155,Bread
+155,Cold Drink
+156,Biscuits
+156,Milk
+156,Cheese
+156,Cold Drink
+157,Eggs
+157,Maggi
+157,Biscuits
+157,Butter
+157,Bread
+158,Juice
+158,Bread
+158,Maggi
+158,Milk
+159,Chips
+159,Biscuits
+159,Cold Drink
+160,Milk
+160,Butter
+160,Maggi
+160,Chips
+161,Cheese
+161,Eggs
+161,Bread
+161,Cold Drink
+162,Juice
+162,Milk
+163,Biscuits
+163,Bread
+163,Chips
+163,Eggs
+163,Milk
+164,Chips
+164,Eggs
+165,Butter
+165,Milk
+165,Eggs
+165,Bread
+165,Cheese
+166,Butter
+166,Juice
+166,Biscuits
+167,Milk
+167,Chips
+167,Cold Drink
+167,Maggi
+168,Cheese
+168,Biscuits
+169,Cheese
+169,Cold Drink
+169,Bread
+169,Maggi
+170,Milk
+170,Cold Drink
+170,Butter
+170,Biscuits
+170,Eggs
+171,Milk
+171,Juice
+172,Eggs
+172,Chips
+172,Biscuits
+173,Chips
+173,Bread
+173,Maggi
+173,Butter
+174,Milk
+174,Eggs
+174,Cold Drink
+175,Biscuits
+175,Eggs
+176,Eggs
+176,Biscuits
+176,Juice
+177,Biscuits
+177,Eggs
+177,Maggi
+178,Eggs
+178,Milk
+179,Cold Drink
+179,Eggs
+180,Eggs
+180,Chips
+180,Milk
+180,Butter
+180,Cold Drink
+181,Cheese
+181,Biscuits
+181,Maggi
+181,Eggs
+181,Milk
+182,Maggi
+182,Milk
+182,Juice
+183,Chips
+183,Cold Drink
+183,Bread
+184,Cold Drink
+184,Eggs
+184,Chips
+184,Butter
+185,Bread
+185,Eggs
+185,Milk
+185,Maggi
+186,Eggs
+186,Juice
+187,Cold Drink
+187,Bread
+187,Milk
+188,Chips
+188,Juice
+188,Eggs
+189,Juice
+189,Cold Drink
+189,Chips
+190,Cold Drink
+190,Butter
+190,Biscuits
+191,Maggi
+191,Butter
+191,Milk
+191,Eggs
+191,Bread
+192,Eggs
+192,Cold Drink
+192,Milk
+193,Juice
+193,Milk
+193,Cold Drink
+194,Milk
+194,Biscuits
+194,Cheese
+195,Cold Drink
+195,Juice
+195,Biscuits
+195,Chips
+195,Milk
+196,Juice
+196,Cheese
+196,Eggs
+196,Bread
+196,Biscuits
+197,Maggi
+197,Eggs
+197,Bread
+197,Cold Drink
+198,Bread
+198,Cheese
+198,Eggs
+198,Chips
+198,Juice
+199,Cheese
+199,Biscuits
+199,Butter
+199,Eggs
+199,Milk
+200,Milk
+200,Chips
+200,Eggs
+200,Juice
+200,Cheese
